@@ -1,6 +1,6 @@
 {
-    "name": "iTechMediaTest",
-    "description": "Consuming Recipe API",
+    "name": "lendInvest",
+    "description": "Calculating Interest",
     "type": "PHP",
     "require": {
         "php": "7.3.*",
@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "iTech\\": "src/"
+            "lendInvest\\": "src/"
         }
     },
     "require-dev": {
