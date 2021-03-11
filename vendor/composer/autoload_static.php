@@ -20,9 +20,9 @@ class ComposerStaticInitf9fc7e38b93793b71904acd46b0c8b9a
         array (
             'phpDocumentor\\Reflection\\' => 25,
         ),
-        'l' => 
+        'g' => 
         array (
-            'lendInvest\\' => 11,
+            'gecko\\' => 6,
         ),
         'W' => 
         array (
@@ -73,7 +73,7 @@ class ComposerStaticInitf9fc7e38b93793b71904acd46b0c8b9a
             1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
             2 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
         ),
-        'lendInvest\\' => 
+        'gecko\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

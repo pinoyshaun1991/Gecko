@@ -1,6 +1,6 @@
 {
-    "name": "lendInvest",
-    "description": "Calculating Interest",
+    "name": "gecko",
+    "description": "Calculating Mass and Diameter of the Solar System",
     "type": "PHP",
     "require": {
         "php": "7.3.*",
@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lendInvest\\": "src/"
+            "gecko\\": "src/"
         }
     },
     "require-dev": {
